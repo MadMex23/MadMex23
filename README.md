@@ -31,5 +31,8 @@ const agustin = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadMex23&repo=Countries-App&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Countries-App" />
 </a>
 
-##
+## :love_letter: Contact
+
+### 💻 [LinkedIn](https://www.linkedin.com/in/ambravo-developer/)       
+### 📧 [E-Mail](mailto:ambravo@outlook.com)
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! </b></em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
