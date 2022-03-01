@@ -1,7 +1,7 @@
 <h1><img src="https://cdn.dribbble.com/users/899371/screenshots/2858785/eargt-animated.gif" width="40"/> Hello World, I'm Agustin! <img src="https://cdn.dribbble.com/users/899371/screenshots/2858785/eargt-animated.gif" width="40"/></h1>
 <p><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Full-Stack Developer from Buenos Aires, Argentina <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 <p><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> A little more about me...  </p>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="325">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
 
 ```javascript
 const agustin = {
