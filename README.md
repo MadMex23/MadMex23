@@ -11,14 +11,15 @@ const agustin = {
     technologies: {
         backEnd: {
             js: ["Node", "Sequelize", "Express"],
+            java: ["Spring Boot"]
         },
         frontEnd: {
-            js: ["React", "Redux"]
+            js/ts: ["React", "Redux", "Angular", "Vue"]
         },
         mobileApp: {
             native: ["React Native"]
         },
-        databases: ["PosgreSQL", "sqlite"]
+        databases: ["PosgreSQL", "sqlite", "MySQL"]
     },
     askMeAbout: ["web dev", "tech", "app dev", "movies", "series", "music"],
     currentFocus: "Learning something new everyday",
