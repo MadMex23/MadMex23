@@ -31,6 +31,9 @@ const agustin = {
 <a href="https://github.com/MadMex23/Countries-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadMex23&repo=Countries-App&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Countries-App" />
 </a>
+<a href="https://github.com/MadMex23/Leaf-Front">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadMex23&repo=Leaf-Front&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Leaf 2.0" />
+</a>
 
 ## :love_letter: Contact
 
